@@ -138,7 +138,7 @@ export const ProjectSection = () => {
     <section
       id="projects"
       ref={sectionRef}
-      className="scroll-mt-24 py-16 px-4 sm:px-6 lg:px-8 relative"
+      className="py-16 px-4 sm:px-6 lg:px-8 relative"
     >
       <div className="container mx-auto max-w-7xl">
         {/* Title */}
