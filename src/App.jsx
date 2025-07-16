@@ -3,7 +3,7 @@ import { Home } from "./pages/Home";
 import { NotFound } from "./pages/NotFound";
 import { CustomCursor } from "./components/CustomCursor";
 import { CustomScroll } from "./components/CustomScroll";
-import {Toaster} from "@/components/ui/Toaster"
+import {Toaster} from "@/components/ui/toaster"
 
 function App() {
   return (
